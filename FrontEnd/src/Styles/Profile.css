@@ -1,0 +1,34 @@
+#mark {
+    border-radius: 50%;
+    padding: 5px;
+    width: 20%;
+    background-color: #cc0000;
+}
+
+.main {
+    text-align: center;
+    padding: 2%;
+}
+
+#first {
+    padding-bottom: 3%;
+    padding-top: 2%;
+}
+
+#username {
+    padding-top: 2%;
+}
+
+#text {
+    padding-top: 5%;
+    font-weight: bold;
+}
+
+.background {
+    background-image: url("./../Artistic-Landscape-4K-Wallpaper-3840x2160.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    font-family: "Monaco", monospace;
+    font-weight: bold;
+}

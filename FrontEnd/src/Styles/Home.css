@@ -1,0 +1,27 @@
+.photo {
+    width: 25%;
+}
+
+.main {
+    text-align: center;
+}
+
+.second {
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.backGround {
+    background-image: url("./../Artistic-Landscape-4K-Wallpaper-3840x2160.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+.midLayer {
+    margin-right: 15%;
+    margin-left: 15%;
+    background-image: url("./../abstract-lines-pink-glow-vertical-4k-hd-wallpaper-5209641594619749.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}

@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    padding-right: 0.5%;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+    padding-right: 0.8%;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: "Monaco", monospace;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    color: white;
+    background-color: linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+    text-decoration: none;
+  }
+
+  .Right {
+    float: right;
+  }
+
+  #signIn {
+    padding-right: 0.8%;
+  }

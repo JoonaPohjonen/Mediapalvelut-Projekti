@@ -1,0 +1,9 @@
+.forTheBackground {
+    background-image: url("./../Artistic-Landscape-4K-Wallpaper-3840x2160.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 100vh;
+    padding-top: 5%;
+    font-family: "Monaco", monospace;
+    font-weight: bold;
+}
